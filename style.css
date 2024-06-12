@@ -9,5 +9,15 @@ h1 {
  p {
     color: white;
     max-width: 400px;
+   } 
+   
+   button {
+    border: 2px solid white;
+    color: red;
+    background-color: blueviolet;
     
- }   
+   }
+
+   .div-direita h1 {
+    color: yellow;
+   }
